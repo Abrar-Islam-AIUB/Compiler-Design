@@ -1,0 +1,6 @@
+int main(){
+    int x,y;
+    x=5;
+    cout<<"Hello"<<endl;
+    return 0;
+}
